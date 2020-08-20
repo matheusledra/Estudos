@@ -9,8 +9,8 @@ public class AcertarNum {
 	public static void main(String[] args) {
 
 		boolean repeat = false, repeat2 = false;
-		String nick, sn;
-		int idade, opcao, chute, num;
+		String sn;
+		int chute, num;
 
 		Random rd = new Random();
 		Scanner sc = new Scanner(System.in);
